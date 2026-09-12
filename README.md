@@ -1,2 +1,4 @@
 # My-first-repo
-I don't know what I am doing
+This is an example of a simple calculator that can be ran in any browser.
+Paired with the code is the index HTML file.
+
